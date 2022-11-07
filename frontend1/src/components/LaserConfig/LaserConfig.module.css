@@ -1,0 +1,13 @@
+#laserForm {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.laserInput {
+    width: 50%;
+}
+
+.laserInput input {
+    width: 40%;
+}
