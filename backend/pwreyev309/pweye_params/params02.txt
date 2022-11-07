@@ -1,0 +1,18 @@
+str_source&examples/video_22Jul22_15.avi
+blur_kernel_size_1&27
+blur_kernel_size_2&27
+savgol_window_size_1&17
+savgol_window_size_2&17
+alpha_1&0.9
+alpha_2&0.9
+alpha_3&0.9
+alpha_4&0.9
+control_params&(0.5, 0.01, 0.2)
+str_out1&outputs/video_02a.avi
+str_out2&outputs/video_02b.avi
+str_out3&outputs/video_02c.avi
+str_IP_address&000.000.000.000
+modbus_port&0
+start_TCP_client&False
+str_saveinput&outputs/input_02.txt
+str_saveoutput&outputs/output_02.txt
